@@ -1,4 +1,4 @@
-# Cursor Animation
+# Cursor Animation Description
 An animated cursor for a website using the following:
 * HTML
 * CSS
